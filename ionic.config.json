@@ -1,0 +1,7 @@
+{
+  "name": "ionic-angular-crud-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
